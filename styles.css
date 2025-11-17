@@ -1,0 +1,12 @@
+.container{
+    display:flex;
+    flex-direction:row;
+
+}
+
+.pixel {
+    border: 0.5px solid black;
+    padding: 5px;
+    height:1px;
+    width:1px;
+}
